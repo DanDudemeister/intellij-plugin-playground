@@ -1,0 +1,6 @@
+/.idea/
+/.gradle/
+/build/
+/out/
+/plugin-test.iml
+/plugin-test.jar
